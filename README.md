@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32451247/README.md)
 # EnSIMem# EnSIMem: Reproducibility Package
 
 This package contains the executable code used for the EnSIMem experiments on
