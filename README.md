@@ -1,4 +1,4 @@
-# EnSIMem# EnSIMem: Reproducibility Package
+# EnSIMem: Reproducibility Package
 
 This package contains the executable code used for the EnSIMem experiments on
 LoCoMo and LongMemEval.  EnSIMem is an entity-structured long-term memory
